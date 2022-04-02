@@ -14,7 +14,4 @@ public class GitConfliktApplication {
     public static void myMethod(){
         System.out.println("hello kutush");
     }
-
-
-
 }
